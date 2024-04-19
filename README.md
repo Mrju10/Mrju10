@@ -6,9 +6,9 @@
 
 </head>
 <body>
-   
- ## My GitHub Stats  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="40">
- <div>
+
+
+   <div>
     <h4>Microcontroller Technology Specialist</h4>
     <ul>
         <li> 💻 I specialize in designing and developing software for electronic devices, with a keen focus on microcontroller and embedded systems.</li>
@@ -21,6 +21,8 @@
     <p>My experience and skills allow me to play a vital role in advancing microcontroller technology and its applications in computer and technological engineering.</p>
 </div>
 
+ ## My GitHub Stats  <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="40">
+ 
 
 <p  align=center>
 <img  title="Mrju10 stats"  alt="Mrju10 stats"  src="https://github-readme-stats.vercel.app/api/?username=Mrju10&count_private=true&theme=merko&show_icons=true&rank_icon=github&hide_border=true&border_radius=20" />
